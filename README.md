@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/Urabewe-CountS2VExtend.git
 
 ## Usage
 
-1. Add the node and connect to directly to the "Value" node of the "Batch Sizes" node.
+1. Add the node and connect it directly to the "Value" of the "Batch Sizes" node.
 2. Run your workflow and the batch count will update on each run
 
 

@@ -12,7 +12,7 @@ A simple utility node that counts active Video S2V Extend nodes in your workflow
 - Ignores bypassed nodes automatically  
 - Returns the count + 1 (so 3 extend nodes = output of 4)
 - Updates every execution - no caching issues
-- Returns 1 of there are 0 extend nodes or all are bypassed
+- Returns 1 if there are 0 extend nodes or all are bypassed
 
 ## Installation
 

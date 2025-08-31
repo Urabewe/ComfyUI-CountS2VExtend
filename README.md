@@ -2,6 +2,10 @@
 
 A simple utility node that counts active Video S2V Extend nodes in your workflow and returns that number plus one. Now you don't have to remember to update the batch number. Just set your extend nodes and go. It was easy to forget so I made this quick and dirty.
 
+
+<img width="971" height="799" alt="image" src="https://github.com/user-attachments/assets/f5faa256-7706-4cb8-a138-0906210f5710" />
+
+
 ## What it does
 
 - Scans your workflow for active `Video S2V Extend` nodes
